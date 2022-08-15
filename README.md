@@ -1,7 +1,7 @@
 ### Command Install
 
 ```
-rm -f setup.sh && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/jielenovo/newscrp/main/setup.sh && chmod +x setup.sh && ./setup.sh
+rm -f setup.sh && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/HsTuah/multivpn/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 
 ### Fitur Script
@@ -120,7 +120,7 @@ rm -f setup.sh && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ip
 
 
 
-
+SEGALA PUJI BAGI ALLAH DAN SELAWAT SERTA SALAM KEPADA BAGINDA NABI MUHAMMAD SAW KERANA DENGAN IZIN-NYA, SCRIPT INI DAPAT DISIAPKAN SEPENUHNYA.. AMIN...
 
 ------------
 **Telegram**
